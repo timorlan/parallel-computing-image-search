@@ -1,0 +1,14 @@
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\obj\Debug\net8.0\MatrixMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\obj\Debug\net8.0\MatrixMultiplier.AssemblyInfoInputs.cache
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\obj\Debug\net8.0\MatrixMultiplier.AssemblyInfo.cs
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\obj\Debug\net8.0\MatrixMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\bin\Debug\net8.0\MatrixMultiplier.exe
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\bin\Debug\net8.0\MatrixMultiplier.deps.json
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\bin\Debug\net8.0\MatrixMultiplier.runtimeconfig.json
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\bin\Debug\net8.0\MatrixMultiplier.dll
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\bin\Debug\net8.0\MatrixMultiplier.pdb
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\obj\Debug\net8.0\MatrixMultiplier.dll
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\obj\Debug\net8.0\refint\MatrixMultiplier.dll
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\obj\Debug\net8.0\MatrixMultiplier.pdb
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\obj\Debug\net8.0\MatrixMultiplier.genruntimeconfig.cache
+C:\Users\timor\source\repos\MatrixMultiplier\MatrixMultiplier\obj\Debug\net8.0\ref\MatrixMultiplier.dll

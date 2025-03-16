@@ -1,0 +1,14 @@
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\bin\Debug\net8.0\MultiThreadedMergeSort.exe
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\bin\Debug\net8.0\MultiThreadedMergeSort.deps.json
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\bin\Debug\net8.0\MultiThreadedMergeSort.runtimeconfig.json
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\bin\Debug\net8.0\MultiThreadedMergeSort.dll
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\bin\Debug\net8.0\MultiThreadedMergeSort.pdb
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\obj\Debug\net8.0\MultiThreadedMergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\obj\Debug\net8.0\MultiThreadedMergeSort.AssemblyInfoInputs.cache
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\obj\Debug\net8.0\MultiThreadedMergeSort.AssemblyInfo.cs
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\obj\Debug\net8.0\MultiThreadedMergeSort.csproj.CoreCompileInputs.cache
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\obj\Debug\net8.0\MultiThreadedMergeSort.dll
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\obj\Debug\net8.0\refint\MultiThreadedMergeSort.dll
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\obj\Debug\net8.0\MultiThreadedMergeSort.pdb
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\obj\Debug\net8.0\MultiThreadedMergeSort.genruntimeconfig.cache
+C:\Users\timor\source\repos\MultiThreadedMergeSort\MultiThreadedMergeSort\obj\Debug\net8.0\ref\MultiThreadedMergeSort.dll
