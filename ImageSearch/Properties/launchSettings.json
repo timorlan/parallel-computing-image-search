@@ -1,0 +1,32 @@
+{
+  "profiles": {
+    "exact": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\LargeImage.jpg C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\SmallImage.jpg 1 exact"
+    },
+    "histogram": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\LargeImage.jpg C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\SmallImage.jpg 1 exact"
+    },
+    "smaller images exact": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\SmallImage_1.jpg C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\SmallImage_3.jpg 1 exact"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\LargeImage.jpg C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\CroppedImage.jpg 1 exact"
+    },
+    "20 threads": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\SmallImage_1.jpg C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\SmallImage_2.jpg 20 exact"
+    },
+    "20 threads png": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\144-536x354.png C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\144-536x354_cropped.png 20 exact"
+    },
+    "list threads png histogram": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\144-536x354.png C:\\Users\\kidox\\Documents\\GitHub\\MultiThreadedImageSearch\\144-536x354_cropped.png -1 euclidean"
+    }
+  }
+}
